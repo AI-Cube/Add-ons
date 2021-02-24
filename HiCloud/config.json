@@ -4,7 +4,7 @@
     "slug": "HiCloud",
     "description": "通过服务代理在外部访问HiCube",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-    "url": "",
+    "url": "https://github.com/HomeIntelligentCube/Add-ons/tree/main/HiCloud",
     "startup": "services",
     "boot": "auto",
     "image": "zhujisheng/{arch}-addon-tunnel2local",
