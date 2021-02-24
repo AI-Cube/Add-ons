@@ -1,6 +1,6 @@
 {
     "name": "连接云",
-    "version": "1.0.10",
+    "version": "0.0.10",
     "slug": "HiCloud",
     "description": "通过服务代理在外部访问HiCube",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
