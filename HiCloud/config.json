@@ -1,5 +1,5 @@
 {
-    "name": "连接云",
+    "name": "Frp网络穿透",
     "version": "0.0.10",
     "slug": "HiCloud",
     "description": "通过服务代理在外部访问HiCube",
