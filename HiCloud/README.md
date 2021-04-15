@@ -1,4 +1,4 @@
-# 智慧家庭立方: HiCloud
+# 家智方-HiCube插件: Frp网络穿透
 
 通过frp隧道，使局域网中的homeassistant可以通过公网访问。
 
