@@ -1,13 +1,12 @@
-# Home Assistant Add-on: SSH server
+# 家智方-HiCube插件: 命令行控制
 
-Allow logging in remotely to Home Assistant using SSH or just the web terminal with Ingress.
+通过命令行控制家智方-HiCube。
 
 ![Supports aarch64 Architecture][aarch64-shield] ![Supports amd64 Architecture][amd64-shield] ![Supports armhf Architecture][armhf-shield] ![Supports armv7 Architecture][armv7-shield] ![Supports i386 Architecture][i386-shield]
 
-## About
+## 关于
 
-Setting up an SSH server allows access to your Home Assistant folders with any SSH
-client. It also includes a command-line tool to access the Home Assistant API.
+通过设置一个SSH服务器让你可以通过行控制家智方-HiCube，当然你可以使用任何SSH客户端链接到该服务器.
 
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
