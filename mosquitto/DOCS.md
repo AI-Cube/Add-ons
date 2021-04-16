@@ -2,11 +2,11 @@
 
 ## 安装
 
-Follow these steps to get the add-on installed on your system:
+通过下述步骤将插件安装到你的系统中:
 
-1. Navigate in your Home Assistant frontend to **Supervisor** -> **Add-on Store**.
-2. Find the "Mosquitto broker" add-on and click it.
-3. Click on the "INSTALL" button.
+1. 在HiCube前端页面依次打开 **Supervisor** -> **加载项商店**.
+2. 找到"Mosquitto代理"插件并点击.
+3. 点击"安装"按钮.
 
 ## 如何使用
 
@@ -87,11 +87,11 @@ A file containing the private key. Place this file in the Home Assistant `ssl` f
 
 If set to `true` encryption will be enabled using the cert- and keyfile options.
 
-## Home Assistant user management
+## Home Assistant用户管理
 
 This add-on is attached to the Home Assistant user system, so MQTT clients can make use of these credentials. Local users may also still be set independently within the configuration options for the add-on. For the internal Home Assistant ecosystem, we register `homeassistant` and `addons`, so these may not be used as user names.
 
-## Disable listening on insecure (1883) ports
+## 关闭监听不安全端口（1883）
 
 Remove the ports from the add-on page network card (set them as blank) to disable them.
 
@@ -134,7 +134,7 @@ Add the following configuration to enable **unrestricted** access to all topics.
 
 The `/share` folder can be accessed via SMB, or on the host filesystem under `/usr/share/hassio/share`.
 
-## Known issues and limitations
+## 已知问题和限制
 
 - Since version 4.1 of the add-on, an explicit ACL definition is now required if you plan to use legacy logins and `"anonymous": true` [see these instructions](#access-control-lists-acls).
 
