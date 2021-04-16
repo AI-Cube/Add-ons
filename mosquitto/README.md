@@ -7,6 +7,7 @@
 ## About
 
 通过该插件你可以安装Mosquitto MQTT代理，Mosquitto是一个开源(使用EPL/EDL许可)的MQTT协议消息代理。Mosquitto是一个轻量级的，适合运行在低功耗设备上的，提供完整服务的MQTT代理。更详细的信息参阅[mosquitto]。
+
 [mosquitto]: https://mosquitto.org
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
