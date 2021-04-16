@@ -1,6 +1,6 @@
-# Home Assistant Add-on: Mosquitto broker
+# 家智方-HiCube插件: Mosquitto代理
 
-## Installation
+## 安装
 
 Follow these steps to get the add-on installed on your system:
 
@@ -8,7 +8,7 @@ Follow these steps to get the add-on installed on your system:
 2. Find the "Mosquitto broker" add-on and click it.
 3. Click on the "INSTALL" button.
 
-## How to use
+## 如何使用
 
 The add-on has a couple of options available. To get the add-on running:
 
@@ -30,7 +30,7 @@ To use the Mosquitto as a broker, go to the integration page and install the con
 
 If you have old MQTT settings available, remove this old integration and restart Home Assistant to see the new one.
 
-## Configuration
+## 配置
 
 Add-on configuration:
 
@@ -138,7 +138,7 @@ The `/share` folder can be accessed via SMB, or on the host filesystem under `/u
 
 - Since version 4.1 of the add-on, an explicit ACL definition is now required if you plan to use legacy logins and `"anonymous": true` [see these instructions](#access-control-lists-acls).
 
-## Support
+## 支持
 
 Got questions?
 
