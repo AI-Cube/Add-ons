@@ -7,7 +7,7 @@
     "url": "https://github.com/HomeIntelligentCube/Add-ons/tree/main/HiCloud",
     "startup": "services",
     "boot": "auto",
-    "image": "zhujisheng/{arch}-addon-tunnel2local",
+    "image": "homeintelligentcube/{arch}-addon-tunnel2local",
     "options": {
       "frp_server": "home.ai-cube.cn",
       "frp_server_port": 7000,
